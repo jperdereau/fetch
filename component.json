@@ -1,0 +1,13 @@
+{
+  "name": "fetch",
+  "repo": "github/fetch",
+  "version": "0.7.1",
+  "dependencies": {
+    "jperdereau/es6-promise": "2.1.1"
+  },
+  "scripts": [
+    "fetch.js"
+  ],
+  "main": "fetch.js",
+  "license": "MIT"
+}
